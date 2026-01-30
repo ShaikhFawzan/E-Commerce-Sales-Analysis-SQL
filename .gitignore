@@ -1,0 +1,8 @@
+# Data files (Exclude large datasets and local databases)
+*.db
+*.sqlite
+*.csv
+
+# Python
+__pycache__/
+*.pyc
